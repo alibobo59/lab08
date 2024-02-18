@@ -1,0 +1,7 @@
+.form{
+    width: 250px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 10px 0 10px 15px;
+    box-shadow: 0 0 5px gray;
+}
